@@ -1,4 +1,4 @@
-# Sources For Lanuching websites for 0
+# Sources For Lanuching websites for zero cost*
 
 <h2>this list doesn't include trial or "educational only" services that expire after a certain time passes.</h2>
 <p>and of course you can just go to https://wordpress.com or https://squarespace.com and make a great website for free, but this list is for more technically demanding websites.</p>
